@@ -1,0 +1,21 @@
++-----------+-----------------------------+----------+--------------------+------------------+----------------------------+
+| Person ID | Problem                     |App Found | Likes              | Dislikes         |Improvements                |
++-----------+-----------------------------+----------+--------------------+------------------+----------------------------+
+|   Matt    | Wants cross-platform        |          |                    | Poorly           | Wants local support        |
+|           |  note app                   | Evernote | Works cross-system | supported/clunky | instead of cloud-based app |
++-----------+-----------------------------+----------+--------------------+------------------+----------------------------+
+|   Steve   | Wants to be able to find    |          |             
+|           |   suitable words based on a |   None   |             
+|           |   definition entered in app |          |         
++-----------+-----------------------------+----------+
+|   Andrew  |  Wants to search every      |          |             
+|           |    streaming service owned  |          |             
+|           |    to find where desired    |   None   |             
+|           |    show can be watched      |          |                                    
++-----------+-----------------------------+----------+--------------------+-------------------+---------------------------+
+|    AJ     |   Reverse image search      |  Google  | "Usually works"    | Sometimes results | More precision and        |
+|           |                             |          |                    | are incorrect     | accuracy in results       |         
++-----------+-----------------------------+----------+--------------------+-------------------+---------------------------+
+|   Ibby    |   Wants to see live people  |          |             
+|           |   traffic in any location   |   None   |
++-----------+-----------------------------+----------+    
