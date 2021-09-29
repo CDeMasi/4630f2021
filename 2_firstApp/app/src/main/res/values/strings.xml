@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2_firstApp</string>
+    <string name="enter_message">Please type what you want to say below.</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="you_said">You said:</string>
+    <string name="name">Caroline DeMasi</string>
+</resources>
