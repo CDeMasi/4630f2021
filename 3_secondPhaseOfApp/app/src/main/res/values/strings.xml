@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">3_secondPhaseOfApp</string>
+    <string name="button_weather">Weather</string>
+    <string name="button_portfolio">Portfolio</string>
+    <string name="button_resume">Resume</string>
+    <string name="my_name">Caroline DeMasi</string>
+    <string name="facts_about">Facts About Me</string>
+    <string name="birthplace">Place of Birth: Winchester, MA</string>
+    <string name="where_i_live_now">Where I Live Now: Wakefield, MA</string>
+    <string name="where_i_want_to_live">Where I Would Like to Live: Lowell, MA</string>
+    <string name="sig_other">Where My Significant Other Grew Up: Groton, MA</string>
+    <string name="birthday">Birthday: February 29, 2000</string>
+
+</resources>
